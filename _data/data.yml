@@ -66,9 +66,11 @@ career-profile:
 education:
     title: Ingeniero de Sistemas
     info:
+
       - degree: Inteligencia Artificial y Ciencia de datos
         university: Pontificia Universidad Javeriana
         time: 2022-2026
+
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
